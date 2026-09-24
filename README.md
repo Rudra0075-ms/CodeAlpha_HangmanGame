@@ -23,8 +23,9 @@ as part of my CodeAlpha Python Programming Internship.
 1. Make sure Python is installed.
 2. Open the project folder in the terminal.
 3. Run:
-
+```
 python hangman.py
+```
 
 ## Concepts Used
 
